@@ -3,7 +3,7 @@
     "baseUrl": "http://automationpractice.com",
     "experimentalSourceRewriting":true,
     "watchForFileChanges": false,
-    "video": true,
+    "video": false,
     "testFiles": "**/*.*spec.*",
     "reporter": "cypress-multi-reporters",
     "reporterOptions": {
