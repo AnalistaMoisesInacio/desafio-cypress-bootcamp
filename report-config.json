@@ -5,7 +5,6 @@
         "quiet": true,
         "overwrite": false,
         "html": false,
-        "json": true,
-        "timestamp": "mmddyyyy_HHMMss"
+        "json": true
     }
 }
