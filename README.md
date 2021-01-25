@@ -1,3 +1,1 @@
 "# desafio-cypress-bootcamp"
-
-teste
